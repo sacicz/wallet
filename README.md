@@ -4,6 +4,8 @@
 
 An offline wallet for static barcodes on the Mudita Kompakt: loyalty, library, gym and club cards. Your cards sit in one stack showing only their names. Tap one to bring its code to the front.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J4V82A4UVG)
+
 ## What it can do
 
 - **Add cards** with the camera, from an image (PNG, JPEG, WebP) or by typing them in
