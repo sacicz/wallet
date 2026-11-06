@@ -18,7 +18,7 @@ An offline wallet for static barcodes on the Mudita Kompakt: loyalty, library, g
 
 **Read only:** GS1 DataBar, GS1 DataBar Expanded, MaxiCode. These are saved as a value, or as the original image crop when imported from an image.
 
-**Languages:** English, Croatian, Spanish
+**Languages:** Croatian, English, German, French, Spanish, Italian, Portuguese, Dutch, Polish, Czech
 
 ## Privacy
 - Fully offline: the app has no internet permission
